@@ -1,7 +1,7 @@
 # Hi! I'm Júlio :wave:
 
 - :crossed_swords: Open to Work – Specializing in **Web Development** and **Hacking**, focused on **finding vulnerabilities** and **demonstrating system flaws**.
-- :computer: **Systems Analysis and Development** – Creating secure and efficient solutions with a focus on **cybersecurity**. Currently in the **3rd year of Systems Analysis and Development at SENAI**.
+- :computer: **Systems Analysis and Development** – Creating secure and efficient solutions with a focus on **cybersecurity**. Currently in the **3rd/4th year of Systems Analysis and Development at SENAI**.
 - :email: **Contact** – nkc10
 - :calendar: **Age** – 17 years old.
 
