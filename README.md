@@ -48,8 +48,8 @@ auto __stdcall main() -> int
 
 # 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nkc10&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nkc10&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nyxpdb&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nyxpdb&theme=radical" />
 </p>
 
 # 🏆 GitHub Achievements
