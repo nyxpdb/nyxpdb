@@ -49,6 +49,6 @@ auto __stdcall main() -> int
 # Contact
 - 📧 **Email**: [juliocesarsilva171083@gmail.com](mailto:juliocesarsilva171083@gmail.com)
 - 💬 **Discord**: [@nkc10](https://discordapp.com/users/1071094341617057822)  
-- 📱 **WhatsApp**: [+55 11 119619-65697](https://wa.me/5511961965697)  
+- 📱 **WhatsApp**: [+55 11 96196-5697](https://wa.me/+551196196-5697)  
 ```
 
