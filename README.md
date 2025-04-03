@@ -74,7 +74,7 @@ auto __stdcall main() -> int
 
 # 🎧 Now Playing on Spotify
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=seu_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=false">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31y3l2yu66kwd7ckpi4tu5ray4yy&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=false">
 </p>
 
 ---
