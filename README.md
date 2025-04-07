@@ -64,15 +64,8 @@ auto __stdcall main() -> int
 ---
 
 ## 🚀 Featured Projects
-- 🔗 [**Meu Projeto 1**](https://github.com/nyxpdb/drink-app)
-- 🔗 [**Meu Projeto 2**](https://github.com/nyxpdb/atlas-app) 
-
----
-
-## ⚡ Recent Activity
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=nyxpdb&theme=redical" />
-</p>
+- 🔗 [Drink App](https://github.com/nyxpdb/drink-app)
+- 🔗 [Atlas App](https://github.com/nyxpdb/atlas-app) 
 
 ---
 
@@ -81,13 +74,6 @@ auto __stdcall main() -> int
 - 🎮 FPS Games & Competitive Gaming
 - 📖 Studying Low-Level Programming (Kernel, Drivers)
 - 💻 Open-Source Contribution
-
----
-
-## 🎧 Now Playing on Spotify
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31y3l2yu66kwd7ckpi4tu5ray4yy&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=false">
-</p>
 
 ---
 
