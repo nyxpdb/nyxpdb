@@ -9,7 +9,7 @@
 #include <iostream>
 #include <string>
 
-auto __stdcall main() -> int
+auto main() -> int
 {
     std::string info = "Systems analysis and development";
     std::string langs[4] = {"C", "Java", "JavaScript", "Python"};
