@@ -64,14 +64,14 @@ auto __stdcall main() -> int
 ---
 
 ## 🚀 Featured Projects
-- 🔗 [**Meu Projeto 1**](https://github.com/nkc10/Projeto1) – Breve descrição do projeto.
-- 🔗 [**Meu Projeto 2**](https://github.com/nkc10/Projeto2) – Outra descrição legal aqui.
+- 🔗 [**Meu Projeto 1**](https://github.com/nyxpdb/drink-app)
+- 🔗 [**Meu Projeto 2**](https://github.com/nyxpdb/atlas-app) 
 
 ---
 
 ## ⚡ Recent Activity
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=nkc10&theme=redical" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=nyxpdb&theme=redical" />
 </p>
 
 ---
